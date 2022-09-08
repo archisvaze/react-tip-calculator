@@ -24,11 +24,11 @@ export default function Main() {
             dispatch(setText("RESET"))
         }
         else {
-            dispatch(setTipAmount(""));
-            dispatch(setAmount(''));
-            dispatch(setTotal(''));
-            dispatch(setTipPercent(''))
-            dispatch(setPeople(''))
+            dispatch(setTipAmount(0));
+            dispatch(setAmount(0));
+            dispatch(setTotal(0));
+            dispatch(setTipPercent(0))
+            dispatch(setPeople(1))
             dispatch(setText("CALCULATE"))
         }
 
