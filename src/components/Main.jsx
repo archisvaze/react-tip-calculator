@@ -45,7 +45,7 @@ export default function Main() {
                         <input onChange={(e) => {
                             dispatch(setAmount(e.target.value));
                         }}
-                            className='amount-input' type="number" value={state.amount} min={0} />
+                            className='input amount-input' type="number" value={state.amount} min={0} />
                     </div>
 
                     <div className="middle">
@@ -109,7 +109,7 @@ export default function Main() {
                         <p className="action-text">Number of People</p>
                         <input onChange={(e) => {
                             dispatch(setPeople(e.target.value))
-                        }} className='amount-input' type="number" value={state.people} min={1} />
+                        }} className='input people-input' type="number" value={state.people} min={1} />
                     </div>
 
                 </div>
