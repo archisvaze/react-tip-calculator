@@ -1,6 +1,6 @@
 # Tip calculator app
 
-Link: https://effulgent-sundae-dbe361.netlify.app/
+Link: https://tip-calculator00.netlify.app/
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
