@@ -1,8 +1,8 @@
 # Tip calculator app
 
-Link: https://tip-calculator00.netlify.app/
+Link: https://tip-calculator00.netlify.app/  
 
-![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
+![Screenshot 2022-11-27 141949](https://user-images.githubusercontent.com/92965519/204126691-bbbe6ce7-8ff3-4efa-8f52-82ebba559772.png)  
 
 ## The challenge
 
